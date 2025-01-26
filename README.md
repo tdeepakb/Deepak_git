@@ -1,6 +1,6 @@
 # Deepak_git
 **COMPANY**: CODTECH IT SOLUTIONS
-**NAME**: Deepak prasad
+**NAME**: DEEPAK PRASAD
 **INTERN ID**: 
 **DOMAIN**: Devops
 **BATCH DURATION**: 25 DEC,2024 to Feb 5th, 2025
@@ -38,3 +38,5 @@ git checkout master
 git merge feature1-branch
 git merge feature2-branch
 it will merge both branch and all files are available inside the master branch.
+# Output of the task
+![Image](https://github.com/user-attachments/assets/db31e259-01bf-4b61-b0d3-9a000ddf0f64)
