@@ -1,9 +1,9 @@
 # Deepak_git
 **COMPANY**: CODTECH IT SOLUTIONS
 **NAME**: DEEPAK PRASAD
-**INTERN ID**: 
-**DOMAIN**: Devops
-**BATCH DURATION**: 25 DEC,2024 to Feb 5th, 2025
+**INTERN ID**: CT6WGAP
+**DOMAIN**: DEVOPS
+**BATCH DURATION**: 25 DEC,2024 to Feb 10th, 2025
 **MENTOR NAME**: NEELA SANTOSH
 # Enter Description of Task Performed Not less Than 500 Words
 # SET Up the repository
@@ -40,3 +40,4 @@ git merge feature2-branch
 it will merge both branch and all files are available inside the master branch.
 # Output of the task
 ![Image](https://github.com/user-attachments/assets/db31e259-01bf-4b61-b0d3-9a000ddf0f64)
+![Image](https://github.com/user-attachments/assets/c598af08-cc21-4bb2-9523-df7bcecc6bfc)
