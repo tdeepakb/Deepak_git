@@ -1,1 +1,7 @@
 # Deepak_git
+**COMPANY**: CODTECH IT SOLUTIONS
+**NAME**: Deepak prasad
+**INTERN ID**: 
+**DOMAIN**: Devops
+**BATCH DURATION**: 25 DEC,2024 to Feb 5th, 2025
+**MENTOR NAME**: NEELA SANTOSH
